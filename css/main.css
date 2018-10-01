@@ -4,6 +4,7 @@ html {
   line-height: 1.5;
 }
 img {
+
   width: 100%;
 }
 
@@ -41,5 +42,6 @@ nav a:hover {
   font-size: 1rem;
 }
 h2 {
-  font-family: 'Patua One', cursive;
+
+  font-family: "Patua One", cursive;
 }
